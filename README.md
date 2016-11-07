@@ -1,2 +1,2 @@
 # bvpraveen
-github Tutorial 
+Github is a repository,function,etc.
